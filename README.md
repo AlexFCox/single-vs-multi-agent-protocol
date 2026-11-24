@@ -22,7 +22,7 @@ The workbook lays out every data point the study collects and every result deriv
 
 ## Paper
 
-Camenisch, G.-L., Reimann, P., Caduff, F., Forster, M., & Cox, A. (2026). *Single or Multi-Agent? A Structured Literature Review and Pre-Specified Protocol for Attributing Agent Reliability to Coordination Structure.* AF&E Projekte HS 2026, Institute of Business Information Technology (IWI), Zurich University of Applied Sciences (ZHAW). Supervision: Mike Krey.
+Caduff, F., Camenisch, G.-L., Cox, A., Forster, M., & Reimann, P. (2026). *Single or Multi-Agent? A Structured Literature Review and Pre-Specified Protocol for Attributing Agent Reliability to Coordination Structure.* AF&E Projekte HS 2026, Institute of Business Information Technology (IWI), Zurich University of Applied Sciences (ZHAW). Supervision: Mike Krey.
 
 The workbook implements Table B1 (Appendix B) of the paper. Section numbers below refer to the paper.
 
